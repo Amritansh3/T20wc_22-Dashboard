@@ -1,4 +1,5 @@
-# T20wc_22-Dashboard
+# T20wc_22-Best 11 data analytics project
+
 End-to-End Cricket Data Analytics Project:
 Building the Best 11 with ESPN T20 World Cup 2022 Data, Pandas, and Power BI:
 This project features a complete data analytics workflow to identify the Best 11 T20 cricket players, using extracted data from the ESPN T20 World Cup 2022 and visualizing the results in Power BI
